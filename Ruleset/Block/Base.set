@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Wed May 15 2024 05:44:58 GMT+0000 (Coordinated Universal Time)
+# Update: Wed May 15 2024 06:44:53 GMT+0000 (Coordinated Universal Time)
 .gussiessmutchy.com
 .cfusionsys.com
 .zmonei.com
@@ -55839,13 +55839,18 @@
 .anthill.vn
 .anymind360-com.cdn.ampproject.org
 .api.nas.nct.vn
+.api.subiz.com.vn
+.api.subiz.net
+.api.subiz.xyz
 .api.widget.zalo.me
 .apilog.mytvnet.vn
 .apilogduration.mytvnet.vn
 .apinas.nct.vn
+.apiv4.subiz.com
 .app.harafunnel.com
 .app.haraloyalty.com
 .app.harasocial.com
+.app.subiz.com.vn
 .apps.haraads.com
 .assets.harafunnel.com
 .atdnetwork.com
@@ -55978,6 +55983,7 @@
 .promotionbar.sapoapps.vn
 .promotionpopup.sapoapps.vn
 .pub.akadigital.vn
+.public-gcs.subiz-cdn.com
 .pushdi.com
 .pushdy.com
 .pushdy.vn
@@ -56009,6 +56015,7 @@
 .stat.play.zing.vn
 .static-addtoany-com.cdn.ampproject.org
 .static.accesstrade.vn
+.static.subiz.com
 .statistic-blog-v2.sapoapps.vn
 .stats.dev.zaloapp.com
 .stats.hara.vn
@@ -56017,11 +56024,6 @@
 .stats.stg.zaloapp.com
 .stats.zaloapp.com
 .stc-support-app-brand.zdn.vn
-.subiz-cdn.com
-.subiz.com
-.subiz.com.vn
-.subiz.net
-.subiz.xyz
 .surfcountor.com
 .syndication.adlinknetwork.vn
 .t.sieu-viet.com
@@ -56056,6 +56058,7 @@
 .v9banners-com.cdn.ampproject.org
 .vads.net.vn
 .vads.vn
+.vcdn.subiz-cdn.com
 .viam.com.vn
 .vietnamnetad.vn
 .vipads.cc
@@ -56066,6 +56069,10 @@
 .watanet.work
 .wg.zaloapp.com
 .widget.chat.zalo.me
+.widget.subiz.com
+.widget.subiz.net
+.widget.subiz.xyz
+.widgetv4.subiz.com
 .wiinvent.com.vn
 .wiinvent.tv
 .yeah1publishing.com
@@ -56651,6 +56658,7 @@
 .9g5lm9.cyou
 .9smomo.com
 .free-4paid.com
+.a.viethu.com
 .a666.vn
 .aaeeonmart.com
 .abb-vnbank.cc
@@ -61696,6 +61704,8 @@
 .vfxrpl.xyz
 .hgcgnfe.icu
 .07dy.cc
+.nuxwlc.cn
+.ta20k.xyz
 .bpxbzps.xyz
 .zuvbzl.xyz
 .zwdtvx.xyz
