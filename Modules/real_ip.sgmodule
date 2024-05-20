@@ -1,5 +1,6 @@
 #!name=Real IP
 #!system=mac
+#!category=Quirks
 
 [General]
 always-real-ip = %APPEND% time.*.com, time.*.apple.com, localhost.ptlogin2.qq.com, stun.l.google.com,  *.ts.net, *.*.ts.net, controlplane.tailscale.com, derp*.*.*

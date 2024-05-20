@@ -1,4 +1,6 @@
 #!name=DNS Mapping
+#!desc=DNS Mapping
+#!category=DNS
 
 [Host]
 ip6-localhost = ::1
