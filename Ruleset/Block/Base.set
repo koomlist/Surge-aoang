@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Fri Jun 07 2024 05:45:02 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Jun 07 2024 06:44:54 GMT+0000 (Coordinated Universal Time)
 .wxemjmxevy.com
 .journeymv.com
 .deliman.net
@@ -49914,6 +49914,7 @@
 .client.tahono.com
 .clouderrorreporting.googleapis.com
 .cloudfront-labs.amazonaws.com
+.cloudmetrics.xenforo.com
 .cltgtstor001.blob.core.windows.net
 .cnt.3dmy.net
 .cnt.mastorage.net
@@ -69710,7 +69711,6 @@
 .urbanairship.com
 .bat.bing.com
 .bc.geocities.
-.cloudmetrics.xenforo.com
 .collector.appconsent.io
 .csi.gstatic.com
 .ct.pinterest.com
