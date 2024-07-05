@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Fri Jul 05 2024 22:44:59 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Jul 05 2024 23:45:07 GMT+0000 (Coordinated Universal Time)
 .xlvul.ajscdn.com
 .ahmar2four.xyz
 .ser678uikl.xyz
@@ -69703,6 +69703,7 @@
 .geo.ngtv.io
 .gtmfsstatic.getgoogletagmanager.com
 .monitor.azure.com
+.native-ads-events-api.c4s-rd.services
 .p.skimresources.com
 .r.skimresources.com
 .t.skimresources.com
@@ -69716,6 +69717,7 @@
 .pv.sohu.com
 .log.popin.cc
 .rlog.popin.cc
+.track.zapimoveis.com.br
 .tracker.comagic.ru
 .mtm.qdqmedia.com
 .za.zdn.vn
@@ -69838,6 +69840,7 @@
 .events-prod.autolist.com
 .events-tracker.deliveroo.net
 .events.api.godaddy.com
+.events.clips4sale.com
 .events.framer.com
 .events.practo.com
 .events.prd.api.max.com
@@ -102548,7 +102551,7 @@
 .fsm.lapresse.ca
 .hits.porn.fr
 .hlms.ecologie.gouv.fr
-.insights.decathlon.net
+.insights.v3.decathlon.net
 .kwgs.letudiant.fr
 .logstash-3.radio-canada.ca
 .ocular.dealabs.com
