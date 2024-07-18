@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Jul 18 2024 17:44:59 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Jul 18 2024 18:44:54 GMT+0000 (Coordinated Universal Time)
 .austere-familiar.com
 .syndicatedsearch.goog
 .duxlveokumpmd.com
@@ -42560,6 +42560,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ahoy-internal-ads-hv.b-cdn.net
 .ad.iwhop.cn
 .s-odx.oleads.com
 .mediation.unity3d.com
@@ -43194,7 +43195,6 @@
 .adtrack.adleadevent.com
 .metrics-fe-na1.hubspot.com
 .pixel.mintigo.com
-.api.sardine.ai
 .dmp.one
 .dmp-ai.ru
 .dmp-one.ru
@@ -46654,6 +46654,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.trackid.globoid.globo.com
 .stats.habr.com
 .analytics.qs-apps.com
 .cnt.web-apps-prod.wo-cloud.com
@@ -46768,7 +46769,6 @@
 .lp.spac.me
 .analytics.verfacto.com
 .flask.us.nextdoor.com
-.ev.indianexpress.com
 .aa-metrics.beauty.hotpepper.jp
 .aa-metrics.hotpepper.jp
 .c615.denverpost.com
@@ -49371,7 +49371,6 @@
 .an.batmobi.net
 .analytics.any.do
 .m.vpadn.com
-.api.instabug.com
 .sts.batmobi.net
 .pps-log.op-mobile.opera.com
 .tktracker.aotter.net
@@ -53286,6 +53285,7 @@
 .exchange.informer.ua
 .hdvmyo.com
 .adsy.mail.bg
+.baglanbize.net
 .cdn.cdnhipter.xyz
 .kingads2.org
 .ad-service.shop
