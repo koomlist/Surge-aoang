@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Mon Sep 02 2024 13:45:24 GMT+0000 (Coordinated Universal Time)
+# Update: Mon Sep 02 2024 14:45:22 GMT+0000 (Coordinated Universal Time)
 .hadronid.net
 .postokdesk.live
 .octonewjs.com
@@ -67090,8 +67090,11 @@
 .geo.ngtv.io
 .gtmfsstatic.getgoogletagmanager.com
 .monitor.azure.com
+.native-ads-events-api2.c4s-rd.services
 .p.skimresources.com
 .r.skimresources.com
+.stat.testme.cloud
+.stream-log.dditscdn.com
 .t.skimresources.com
 .tag.aticdn.net
 .tracker.twenga.
@@ -67307,6 +67310,7 @@
 .marketing.alibaba.com
 .mcc-tags.cisco.com
 .mcs-ie.tiktokw.eu
+.mcs-va-useast2a.tiktokv.com
 .mcs.tiktokv.us
 .mcs.tiktokw.us
 .mcs.us.tiktokv.com
