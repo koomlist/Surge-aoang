@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Tue Sep 03 2024 16:47:50 GMT+0000 (Coordinated Universal Time)
+# Update: Tue Sep 03 2024 17:45:09 GMT+0000 (Coordinated Universal Time)
 .s1search.co
 .hadronid.net
 .octonewjs.com
@@ -64849,6 +64849,7 @@
 .23.109.87.
 .allsportsflix.
 .jeeng-api-prod.azureedge.net
+.ogads-pa.googleapis.com
 .srv.tunefindforfans.com
 .a.aylix.xyz
 .a.fimoa.xyz
