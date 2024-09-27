@@ -19,9 +19,12 @@ PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,amuled
 PROCESS-NAME,Motrix.app
 
-# >> Cloudflare Tunnel
+# Cloudflare Tunnel
 PROCESS-NAME,cloudflared
 
 # Tailscale
 PROCESS-NAME,tailscaled
 PROCESS-NAME,Tailscale.app
+
+# Zerotier
+PROCESS-NAME,zerotier-one
