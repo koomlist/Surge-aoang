@@ -1,6 +1,8 @@
-#!name=Test Pixiv
-#!desc=Test Pixiv
-#!category=Test
+#!name= ASurge: Test Pixiv
+#!desc= Test Pixiv
+#!category= ASurge
+#!date = 2024-10-15 00:00:00
+#!homepage = https://github.com/Aoang/Surge
 
 [Script]
 Pixiv Premium = type=http-response,pattern=^https:\/\/oauth\.secure\.pixiv\.net\/auth\/token,requires-body=1,max-size=0,script-path=https://surge.x2ox.com/Script/oauth.secure.pixiv.net.js,script-update-interval=0

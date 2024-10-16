@@ -1,6 +1,8 @@
-#!name=谷歌中国重定向
-#!desc=将 google.cn 的请求重定向到 google.com
-#!category=Enhancements
+#!name= ASurge: 谷歌中国重定向
+#!desc= 将 google.cn 的请求重定向到 google.com
+#!category= ASurge
+#!date = 2024-10-15 00:00:00
+#!homepage = https://github.com/Aoang/Surge
 
 [URL Rewrite]
 ^https?://(www.)?(g|google)\.cn https://www.google.com 302
