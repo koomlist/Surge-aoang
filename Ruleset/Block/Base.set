@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Nov 21 2024 07:45:11 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Nov 21 2024 08:50:23 GMT+0000 (Coordinated Universal Time)
 .lanky-bar.com
 .pledgorulmous.top
 .datazap.online
@@ -60418,6 +60418,7 @@
 .events-prod.autolist.com
 .events-tracker.deliveroo.net
 .events.api.godaddy.com
+.events.bsky.app
 .events.clips4sale.com
 .events.practo.com
 .events.prd.api.max.com
@@ -92736,7 +92737,6 @@
 .stg-deeplink.ring.md
 .store.echovisuals.com
 .store.esquirrel.at
-.stream.9now.com.au
 .studio.joinsalut.com
 .subito.openapp.link
 .summary.instaread.co
