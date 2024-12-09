@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Mon Dec 09 2024 11:45:10 GMT+0000 (Coordinated Universal Time)
+# Update: Mon Dec 09 2024 13:08:15 GMT+0000 (Coordinated Universal Time)
 .ads.twdcgrid.com
 .myaudioads.com
 .rixengine.com
@@ -38837,6 +38837,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.snowplow-collector.
 .logs-ingress.svc.vinted.com
 .analytics.baliusuperapp.xyz
 .log-va-us-looki.capcutapi.com
@@ -39132,7 +39133,6 @@
 .adtracker.oilpainting.colorbynumber.veraxen.com
 .adtracker.mkjigsaw.com
 .stats.oilpainting.colorbynumber.veraxen.com
-.snowplow-collector.apartmentlist.io
 .qa-events-schema.viacom.tech
 .dns-clientinfo.cbsivideo.com
 .trace.qq.com
@@ -50929,6 +50929,7 @@
 .thunnqyo.com
 .wjimtye.top
 .2wt.icu
+.phainoirs.com
 .attelaoe.com
 .dsoxgdjv.icu
 .3ts.icu
