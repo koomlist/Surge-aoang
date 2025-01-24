@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Fri Jan 24 2025 22:45:03 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Jan 24 2025 23:45:05 GMT+0000 (Coordinated Universal Time)
 .wobbly-birth.com
 .hotbraraja.cc
 .unactkiosk.com
@@ -33218,6 +33218,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mktp-base.mktplatforms.com
 .f-tra.com
 .event.dfinery.io
 .polaranalytics.com
@@ -40081,7 +40082,6 @@
 .analytics.paddle.com
 .analytics.pagefly.io
 .analytics.piksel.com
-.analytics.pinterest.com
 .analytics.plasmic.app
 .analytics.pop2watch.com
 .analytics.prezly.com
