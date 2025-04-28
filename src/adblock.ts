@@ -1,5 +1,5 @@
-import compile from "https://esm.sh/@adguard/hostlist-compiler";
-import { NetworkFilter } from "https://esm.sh/@cliqz/adblocker";
+import compile from "npm:@adguard/hostlist-compiler";
+import { NetworkFilter } from "npm:@ghostery/adblocker";
 
 export default async function parse(address: string[]) {
   const data = await compile({

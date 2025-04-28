@@ -1,4 +1,4 @@
-import compile from "https://esm.sh/@adguard/hostlist-compiler";
+import compile from "npm:@adguard/hostlist-compiler";
 
 export default async function parse(address: string[]) {
   const data = await compile({
