@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu May 08 2025 05:45:45 GMT+0000 (Coordinated Universal Time)
+# Update: Thu May 08 2025 06:51:43 GMT+0000 (Coordinated Universal Time)
 .gusoclji.com
 .lolostan.com
 .awdeliverynet.com
@@ -35520,6 +35520,7 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.analytics.turk.pro
 .metric-api.newrelic.com
 .conduit-beacon.mtvnservices.com
 .redfast.com
@@ -91238,7 +91239,6 @@
 .0.myikas.com
 .analitik.bik.gov.tr
 .analytics.faprika.net
-.analytics.turk.pro
 .c.keltis.com
 .sayac.kapital.com.tr
 .track.livasoft.com.tr
@@ -95051,6 +95051,9 @@
 .booli-logger.prod.booli.se
 .boost-cdn.manatee.dk
 .borsvarlden-banners.azurewebsites.net
+.bostad24.se
+.bostadslistan.se
+.bostadsportal.se
 .brandy.bonniernewslifestyle.se
 .browser-http-intake.logs.datadoghq.com
 .browser-http-intake.logs.datadoghq.eu
@@ -95159,6 +95162,7 @@
 .hapyak.com
 .heroaffiliates.com
 .hsadspixel.net
+.hyrio.se
 .h.online-metrix.net
 .iba.feedblitz.com
 .iconosquare.com
@@ -95244,6 +95248,9 @@
 .r.existenz.se
 .recirculation.spot.im
 .regstat.se
+.rentia.se
+.rentify.se
+.rentler.se
 .resor-external.barnsemester.se
 .retargettracker.com
 .revive.edgeflyfishing.com
@@ -101062,6 +101069,7 @@
 .oaokes.icu
 .sqif.cn
 .fmlmbf.top
+.uuso05081qhs.xyz
 .ebrid.cn
 .wtrotilloye.com
 .dnjxds.top
@@ -109361,6 +109369,7 @@
 .svc2.sc.com
 .tm-eps.neutrino.nu
 .tmetrix.my.chick-fil-a.com
+.tmx.bestbuy.com
 .tmx.td.com
 .u47.pnc.com
 .w-profiling.simplii.com
