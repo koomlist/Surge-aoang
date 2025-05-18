@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Sun May 18 2025 20:42:48 GMT+0000 (Coordinated Universal Time)
+# Update: Sun May 18 2025 21:40:33 GMT+0000 (Coordinated Universal Time)
 .plush-abuse.com
 .obnoljac.com
 .aucdn.net
@@ -110026,6 +110026,7 @@
 .geo.ngtv.io
 .gtmfsstatic.getgoogletagmanager.com
 .p.skimresources.com
+.pixels.zalify.com
 .r.skimresources.com
 .t.skimresources.com
 .tag.aticdn.net
@@ -110035,6 +110036,7 @@
 .uim.tifbs.net
 .d241ujsiy3yht0.cloudfront.net
 .d2fj3s7h83rb61.cloudfront.net
+.dr6vcclmzwk74.cloudfront.net
 .pv.sohu.com
 .log.popin.cc
 .rlog.popin.cc
@@ -110195,6 +110197,7 @@
 .fathom.app.silverbeak.com
 .fathom.tdvm.net
 .fbo-statistics-collector-tc.is.flippingbook.com
+.fd.ivoclar.com
 .fdt.kraken.com
 .fgn-plausible.serverable.com
 .firebaselogging.googleapis.com
