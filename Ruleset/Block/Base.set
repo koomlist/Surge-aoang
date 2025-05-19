@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Mon May 19 2025 04:02:17 GMT+0000 (Coordinated Universal Time)
+# Update: Mon May 19 2025 04:50:15 GMT+0000 (Coordinated Universal Time)
 .plush-abuse.com
 .obnoljac.com
 .aucdn.net
@@ -109199,6 +109199,7 @@
 .pv.sohu.com
 .log.popin.cc
 .rlog.popin.cc
+.web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 .tracker.comagic.ru
 .mtm.qdqmedia.com
 .za.zdn.vn
