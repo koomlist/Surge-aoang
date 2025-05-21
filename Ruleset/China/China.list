@@ -1,5 +1,5 @@
 # China CIDR, https://misaka.io
-# Update: Wed May 21 2025 16:51:35 GMT+0000 (Coordinated Universal Time)
+# Update: Wed May 21 2025 17:43:54 GMT+0000 (Coordinated Universal Time)
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
 IP-CIDR,1.8.1.0/24
@@ -770,7 +770,6 @@ IP-CIDR,101.40.0.0/16
 IP-CIDR,101.42.0.0/15
 IP-CIDR,101.49.206.0/23
 IP-CIDR,101.49.208.0/24
-IP-CIDR,101.49.212.0/24
 IP-CIDR,101.50.8.0/21
 IP-CIDR,101.50.56.0/22
 IP-CIDR,101.52.4.0/24
