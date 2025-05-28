@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Wed May 28 2025 02:23:37 GMT+0000 (Coordinated Universal Time)
+# Update: Wed May 28 2025 03:37:14 GMT+0000 (Coordinated Universal Time)
 .entertainlavish.com
 .forcefulpacehauled.com
 .edge.atmtd.com
@@ -2456,6 +2456,7 @@
 .6306c7a8c8.cde90a5fb0.com
 .656fe3805b.b0edf74166.com
 .669baa8973.3a434abae1.com
+.6b49bc9aef.1023f6e00d.com
 .70d4a0bb45.e82ae52eec.com
 .76b61c25b1.c8dd7cddbb.com
 .8472fcb80c.cb57b3bd09.com
@@ -2550,6 +2551,7 @@
 .274dc708ea.ec71a471b9.com
 .2779ec7bc8.a6e822f510.com
 .2a1b482343.1e55308a88.com
+.2ce064f854.766935bca8.com
 .2d91ee1fa3.7a53b9303c.com
 .2f69079c52.84968e8ab0.com
 .30a431b26a.e1bf915283.com
@@ -5750,6 +5752,9 @@
 .smart-placements-sdk.ex.co
 .adtech-prod.nikecloud.com
 .newrevive.detik.com
+.ads.rubiconproject.com
+.eus.rubiconproject.com
+.fastlane.rubiconproject.com
 .d25m254rjp3rii.cloudfront.net
 .creative.live7mm.tv
 .ad.petel.bg
@@ -15689,6 +15694,7 @@
 .germlesslukewarmmold.com
 .get-gx.net
 .get-here-click.xyz
+.get-me-wow.
 .get-partner.life
 .getadx.com
 .getadzuki.com
@@ -32577,6 +32583,9 @@
 .lgad.cjpowercast.com.edgesuite.net
 .lgsmartad.com
 .samsungacr.com
+.158.247.208.
+.23.109.82.
+.23.109.87.
 .1080872514.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
 .1208344341.rsc.cdn77.org
@@ -34375,6 +34384,12 @@
 .geoloc.yospace.com
 .banner.hpmdnetwork.ru
 .hybrid.ai
+.ad.auditude.com
+.adfiles.auditude.com
+.cdn.auditude.com
+.cdn2.auditude.com
+.otcdn2.auditude.com
+.www.auditude.com
 .mblapi.ssl2.duapps.com
 .api.mobula.ds.duapps.com
 .noxagile.duapp.com
@@ -34642,6 +34657,7 @@
 .soundcloud-pax.pandora.com
 .promoted.sndcdn.com
 .adservice.tohsoft.com
+.delivery-cdn-cf.adswizz.com
 .appboy-images.com
 .ad.particlenews.com
 .ad.wynk.in
@@ -88832,6 +88848,8 @@
 .analytics.dashboard.fingerprint.com
 .tracking.ensonhaber.com
 .l.traxmag.com
+.pixel.rubiconproject.com
+.smarttag.rubiconproject.com
 .stat.arzamas.academy
 .events.air.tv
 .event-listener.air.tv
@@ -88873,6 +88891,7 @@
 .events.webdock.io
 .t.wayfair.de
 .mixpanel-proxy.ted.com
+.zc.adswizz.com
 .collect.nature.com
 .anonym.data.funkedigital.de
 .analytics.makeitmeme.com
@@ -90025,6 +90044,7 @@
 .stats.aplus.com
 .stats.articlesbase.com
 .stats.avg.com
+.stats.aws.rubiconproject.com
 .stats.bbc.co.uk
 .stats.blogg.se
 .stats.bluebillywig.com
@@ -91203,6 +91223,7 @@
 .track.pingstart.com
 .tracking.lenzmx.com
 .trk.pinterest.com
+.tunein.adswizz.com
 .ws.ksmobile.net
 .www-google-analytics.l.google.com
 .ymtracking.com
@@ -95379,6 +95400,11 @@
 .tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 .ttauri.livescience.com
 .proxy.ads.canalplus-bo.net
+.7bd92.v.fwmrm.net
+.7cbf2.v.fwmrm.net
+.7cd77.v.fwmrm.net
+.1f2e7.v.fwmrm.net
+.7b9de.v.fwmrm.net
 .ads.dugwood.com
 .caraneoutraze.uno
 .masdak.epsilonsoft.to
@@ -96525,6 +96551,7 @@
 .carneoam.com
 .casinotoplists.com
 .cdn.adfenix.com
+.cdn.adswizz.com
 .cdn.adt356.com
 .cdn.adt357.net
 .cdn.adt361.com
@@ -96676,6 +96703,7 @@
 .mega.vk.se
 .meltwater.com
 .metapic.se
+.micro.rubiconproject.com
 .missaffiliate.com
 .mraffiliate.com
 .mrporter-creative.prf.hn
@@ -96728,9 +96756,11 @@
 .rum-http-intake.logs.datadoghq.eu
 .rum-reporter-prod.exp.bn.nr
 .s.cartbooster.io
+.s.ntv.io
 .sak.userreport.com
 .salesbooster.ai
 .sannsyn.com
+.sbs.deliveryengine.adswizz.com
 .script.extellio.com
 .scripts.makeinfluence.com
 .script.e-space.se
@@ -96787,6 +96817,7 @@
 .stats.userneeds.com
 .stats2.ehandel.se
 .storymedia.se
+.synchrobox.adswizz.com
 .s-eu-1.pushpushgo.com
 .t.atmng.io
 .t.fml.rip
@@ -107479,42 +107510,6 @@
 .letysheeps.ru
 .a4.overclockers.ua
 .novunu.football-plyus.net
-.1023f6e00d.com
-.766935bca8.com
-.admitad.com
-.adswizz.com
-.alipromo.com
-.alitems.com
-.appyrinceas.org
-.atdmt.com
-.auditude.com
-.benelph.de
-.buyeasy.by
-.f522b60e9e.com
-.fwmrm.net
-.get-me-wow.
-.ggbxcidvjkel.com
-.googletagservices.com
-.imasdk.googleapis.com
-.kqzyfj.com
-.loadercdn.com
-.ntv.io
-.ojrq.net
-.pcibfowzokc.com
-.ptubsumsoay.net
-.qwvqbeqorrobv.top
-.rubiconproject.com
-.stistucuso.com
-.totaladblock.com
-.trust.zone
-.uaivqzpqzehth.love
-.videoplaza.tv
-.wpnrtnmrewunrtok.xyz
-.wyeosamxhgqwt.world
-.142.91.159.
-.158.247.208.
-.23.109.82.
-.23.109.87.
 .allsportsflix.
 .srv.tunefindforfans.com
 .a.fimoa.xyz
