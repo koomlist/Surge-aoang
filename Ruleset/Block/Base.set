@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Fri Jun 06 2025 13:07:55 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Jun 06 2025 13:49:41 GMT+0000 (Coordinated Universal Time)
 .livestt.co
 .skypie.info
 .jsonads.upnerd.net
@@ -111448,12 +111448,14 @@
 .aswpsdkus.com
 .pushmaster-cdn.xyz
 .urbanairship.com
+.analytics.propensity.com
 .bat.bing.com
 .bc.geocities.
 .collector.appconsent.io
 .csi.gstatic.com
 .ct.pinterest.com
 .eu-mobile.events.data.microsoft.com
+.event.syftdata.com
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
