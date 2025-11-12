@@ -1,5 +1,6 @@
 # Base, EasyList, AdGuard
-# Update: Wed Nov 12 2025 15:43:26 GMT+0000 (Coordinated Universal Time)
+# Update: Wed Nov 12 2025 16:46:04 GMT+0000 (Coordinated Universal Time)
+.dipperflightrecommend.com
 .recommendedcasualtymysterious.com
 .leadstar.com.pl
 .szubtepzaka.com
@@ -52085,6 +52086,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.data.pendo.io
 .api.statsigcdn.com
 .beacon.coofis.com
 .aditude.prebid-server.com
@@ -128710,6 +128712,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.data.eu.pendo.io
+.client-log.box.com
+.pendo-data-prod.box.com
+.blink.fra-01.braze.eu
 .api.monedata.io
 .tnc16-normal-us-ttp.capcutapi.us
 .mcs16-normal-us-ttp.capcutapi.us
@@ -148329,7 +148335,6 @@
 .chronicle.medal.tv
 .click.nudevista.com
 .clickins.slixa.com
-.client-log.box.com
 .clp-mms.cloudpro.co.uk
 .cm-mms.coachmag.co.uk
 .cm.nordvpn.com
