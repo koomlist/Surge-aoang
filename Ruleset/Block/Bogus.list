@@ -1,5 +1,5 @@
 # Bogus, https://github.com/felixonmars/dnsmasq-china-list
-# Update: Fri Feb 20 2026 00:58:46 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Feb 20 2026 02:25:57 GMT+0000 (Coordinated Universal Time)
 IP-CIDR,123.125.81.12/32,no-resolve
 IP-CIDR,101.226.10.8/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
